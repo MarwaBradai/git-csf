@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TEST CONNEXION CAS NON PASSANT USERNAME INVALIDE</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8e273a50-d8d6-4461-9ccc-b2567faebd07</testCaseGuid>
+</TestCaseEntity>

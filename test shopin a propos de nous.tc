@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test shopin a propos de nous</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>986c6478-dadc-4fa8-a1ed-b121c371aa39</testCaseGuid>
+</TestCaseEntity>
